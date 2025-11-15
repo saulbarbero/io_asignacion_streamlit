@@ -18,6 +18,16 @@ Permite:
 
 ---
 
+## 🎥 Video Demostrativo
+
+A continuación se muestra un video corto con el funcionamiento del sistema:
+
+<video width="640" controls>
+  <source src="media/demo.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+
 ## Instalación (Windows 10/11)
 
 ### 1️⃣ Instalar Python 3.11
@@ -180,3 +190,4 @@ python -m streamlit run app.py
 ```
 si tiempo[p,t] = 0 → x[p,t] = 0
 ```
+
