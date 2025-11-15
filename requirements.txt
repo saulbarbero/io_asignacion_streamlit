@@ -1,0 +1,10 @@
+streamlit==1.39.0
+pulp==2.8.0
+pandas==2.2.2
+numpy==1.26.4
+
+
+
+cd "C:\ubicacion completa\io_asignacion_streamlit"
+venv312\Scripts\activate
+streamlit run app.py 
