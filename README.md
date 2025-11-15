@@ -17,6 +17,13 @@ Permite:
     * Matriz binaria de decisión  
 
 ---
+## 🎥 Video demostrativo
+
+Puedes ver un video corto del funcionamiento de la aplicación en el siguiente enlace:
+
+[▶ Ver demo en GitHub](media/demo.mp4)
+
+---
 
 ## Instalación (Windows 10/11)
 
@@ -180,3 +187,5 @@ python -m streamlit run app.py
 ```
 si tiempo[p,t] = 0 → x[p,t] = 0
 ```
+
+
